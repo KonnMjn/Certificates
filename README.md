@@ -1,4 +1,4 @@
-# 🎓 Learning Certifications
+# 🎓 Learning Certificates
 
 This repository contains the certificates I have earned through various online courses and training programs in fields like programming, data science, cloud computing, and machine learning.
 
