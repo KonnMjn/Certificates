@@ -1,6 +1,6 @@
 # 🎓 Learning Certificates
 
-This repository contains the certificates I have earned through various online courses and training programs in fields like programming, data analyst, and machine learning.
+This repository contains the certificates I have earned through online courses and training programs in fields like programming, data analyst, and machine learning.
 
 ## 📂 Categories
 - **Programming**
